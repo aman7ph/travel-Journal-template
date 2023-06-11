@@ -1,0 +1,10 @@
+repeat(auto-fit, minmax(200px, 1fr));
+
+{
+  image:"",
+  country:"",
+  map:"",
+  location_name="",
+  date:"",
+  description:""
+}
